@@ -1,3 +1,5 @@
+[![Deploy static content to Pages](https://github.com/LucasSantosDev/bible-ticket/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/LucasSantosDev/bible-ticket/actions/workflows/static.yml)
+
 # Bible Ticket
 
 ```Script que randomiza a geração de um screenshot de versículo(s) para edificar seu dia.```
